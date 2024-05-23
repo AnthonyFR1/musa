@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+farm-haystack[elasticsearch,crawler]
+python-multipart
+sqlalchemy
+setuptools

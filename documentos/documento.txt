@@ -1,0 +1,9 @@
+RAG es un método de generación de texto.
+El cielo es azul
+Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML)
+Los modelos de lenguaje de gran tamaño (LLM) son modelos de aprendizaje profundo muy grandes que se preentrenan con grandes cantidades de datos
+C++ es un lenguaje de programación que proviene de la extensión del lenguaje C para que pudiese manipular objetos. A pesar de ser un lenguaje con muchos años, su gran potencia lo convierte en uno de los lenguajes de programación más demandados en los últimos años
+Flask es un framework minimalista escrito en Python que permite crear aplicaciones web rápidamente y con un mínimo número de líneas de código. Está basado en la especificación WSGI de Werkzeug y el motor de templates Jinja2 y tiene una licencia BSD
+Una API ​ es una pieza de código que permite a diferentes aplicaciones comunicarse entre sí y compartir información y funcionalidades. Una API es un intermediario entre dos sistemas, que permite que una aplicación se comunique con otra y pida datos o acciones específicas
+SQLite es un sistema de gestión de bases de datos relacional compatible con ACID, contenida en una relativamente pequeña ​ biblioteca escrita en C.
+Pytest es un marco de prueba de Python que se originó a partir del proyecto PyPy.
